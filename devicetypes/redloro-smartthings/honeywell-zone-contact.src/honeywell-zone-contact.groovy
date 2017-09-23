@@ -1,4 +1,5 @@
 /**
+* TEST
  *  SmartThings Device Handler: Honeywell Zone Contact
  *
  *  Author: redloro@gmail.com
